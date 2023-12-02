@@ -12,3 +12,4 @@ def home_view(request):
     </html>
     """
     return HttpResponse(html)
+
